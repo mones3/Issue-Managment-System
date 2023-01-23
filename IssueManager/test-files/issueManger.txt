@@ -1,0 +1,6 @@
+*1,New,Bug,summary,null,false,
+-[New] note
+*2,New,Enhancement,summary,null,false,
+-[New] note
+*3,New,Bug,summary2,null,false,
+-[New] note2
